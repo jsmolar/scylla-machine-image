@@ -1101,6 +1101,7 @@ class AwsInstance(CloudInstance):
             "i7ie",
             "i8g",
             "i8ge",
+            "r8gd",
         ]
 
     def is_dev_instance_type(self):
